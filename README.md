@@ -1,12 +1,15 @@
 # Data Analytics Project - COVID-19 Data Exploration
 
-This project focuses on analyzing COVID-19 data using SQL queries to gain insights and understand various aspects of the pandemic. The project utilizes skills such as joins, CTEs, temp tables, window functions, aggregate functions, creating views, and converting data types. The dataset includes information on COVID-19 cases, deaths, vaccinations, and population.
+This project focuses on analyzing a big COVID-19 dataset using SQL queries to gain insights and understand various aspects of the pandemic. The project utilizes Python (pandas) and SQL skills such as joins, CTEs, temp tables, window functions, aggregate functions, creating views, and converting data types. The dataset includes information on COVID-19 cases, deaths, vaccinations, and population. Data visualization was created using Tableau.
+
+Link here: 
 
 ## Project Structure
 
 The project consists of the following files
 
-- `data_analytics.sql`: SQL code containing queries for data exploration.
+- `DataPreparation.ipynb`: Python code containing data cleaning and preparation
+- `COVIDSQLAnalysis.sql`: SQL code containing queries for data exploration.
 - `README.md`: Markdown file providing an overview of the project.
 
 ## Dataset
