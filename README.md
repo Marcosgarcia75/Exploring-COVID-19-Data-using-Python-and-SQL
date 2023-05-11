@@ -2,7 +2,7 @@
 
 This project focuses on analyzing a big COVID-19 dataset using SQL queries to gain insights and understand various aspects of the pandemic. The project utilizes Python (pandas) and SQL skills such as joins, CTEs, temp tables, window functions, aggregate functions, creating views, and converting data types. The dataset includes information on COVID-19 cases, deaths, vaccinations, and population. Data visualization was created using Tableau.
 
-Link here: https://us-west-2b.online.tableau.com/#/site/marcosgarcia/workbooks/620849?:origin=card_share_link
+Dashboard link here: https://us-west-2b.online.tableau.com/#/site/marcosgarcia/workbooks/620849?:origin=card_share_link
 
 ## Project Structure
 
