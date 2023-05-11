@@ -65,7 +65,7 @@ This project is licensed under the [MIT License](LICENSE).
 We would like to acknowledge the data sources used in this project:
 
 - Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina and Max Roser (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
-- 
+
 Special thanks to the open-source community for providing the data and tools necessary for this analysis.
 
 ---
